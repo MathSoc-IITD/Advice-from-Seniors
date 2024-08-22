@@ -40,10 +40,8 @@ Trading, Data Science and Machine Learning.
 ## How a UG Student Can Explore and Pursue Research
 Take electives right from your second year and undertake reading projects with professors whose
 work interests you. Doing so will help you find out what you enjoy. It would be great if you could figure
-
 out the area you want to continue with by the end of your second year. If you are a four-year (resp. five-
 year) student, you must fill in the PhD applications during your 7th (resp. 9th) semester.
-
 Therefore, after your second year, you will be left with a year (resp. two years) before these
 applications. Make sure to do the following:
 
