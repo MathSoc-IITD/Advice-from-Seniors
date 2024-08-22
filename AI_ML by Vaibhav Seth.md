@@ -1,116 +1,33 @@
-# Foreign Intern Ke Fundae 
+# Advice for AI/ML enthusiasts 
 #MathSoc
 ![Views](https://komarev.com/ghpvc/?username=abhinav-ratan&label=Views&color=brightgreen)
 ---
 
-# Foreign Internship Guide
+# About the Author
 
-Welcome to the Foreign Internship Guide! This guide is designed to help students at IIT Delhi navigate the process of securing research internships abroad. If you have questions or concerns, this document provides answers to common inquiries.
-The session was conducted by Mathsoc on 25th October 2023. The MoM was jotted down by Rohan Roy in GoogleDocs before I added it to GitHub
+My name is Vaibhav, and I am a final-year Mathematics and Computing undergraduate at IIT Delhi. I began my machine learning journey in the second semester of my first year, guided by a mentor who introduced me to the field and helped me get started with the basics. Over the years, I have completed several courses, projects, and even an internship in Machine Learning. My interests primarily lie in Natural Language Processing and Reinforcement Learning. Through this article, I aim to help you get started with AI/ML, much like my mentor did for me.
+Additionally, I am one of the founding members of the Artificial Intelligence Society at IIT Delhi, which has been instrumental in fostering a community passionate about AI/ML.
 
-## Application Phase
+## Introduction
+Artificial Intelligence (AI) and Machine Learning (ML) are two of the most exciting and rapidly evolving fields in technology today. AI refers to the simulation of human intelligence in machines, allowing them to perform tasks that typically require human intelligence, such as understanding natural language, recognizing patterns, and making decisions. Machine Learning, a subset of AI, involves the development of algorithms that allow computers to learn from and make predictions based on data. These technologies are transforming industries and creating new opportunities for innovation and growth.
 
-### How to decide which professor/university/research area to email? Is it necessary to write customized prof-specific emails? If yes, how to do so?
-- Utilize csrankings.org and hindex.
-- Assistant and young professors are more receptive.
-- Avoid cold emailing; do research on professors.
-- Relate the professor's research areas to your experiences.
-- Check a professor's h-index (h-index > 20 is good).
-- Focus on the project, not just the professor or university.
+Imagine a world where your phone can understand your voice commands, cars drive themselves, and healthcare systems can predict diseases before they happen. This is not science fiction—this is the power of AI and ML. As a first-year student, diving into AI/ML means you get to be at the forefront of this technological revolution. You'll have the chance to work on projects that can make a real-world impact, from improving business operations to advancing scientific research. The skills you learn will be in high demand, opening doors to exciting career opportunities in various fields such as tech, finance, healthcare, and more.
 
-### Before applying to a particular prof, do we have to read their research papers? If yes, then how much?
-- Read 2-3 profs' papers daily for 1-2 months.
-- Focus on abstracts and introductions.
-- Don't overburden yourself with research papers.
 
-### Is it necessary to have a sound knowledge of the field you want to research? If not, how well-acquainted should you be?
-- Choose an interesting topic.
-- Professors understand you may not have deep knowledge.
-- Mention your expectations and what you know.
-- Take online courses (e.g., Coursera or CS229).
-- Engage in projects.
-
-### What are some official programs to get foreign internships? Which method has a higher chance - cold emailing or official programs?
-- Cold emailing often has a higher acceptance rate.
-- Mass mailing can be effective, but draft emails carefully.
-
-### What are the points that one should keep in mind while making the CV for a foreign intern?
-- Include an introduction.
-- Dedicate the CV to your professors.
-- Mention what you like about their research.
-- Keep emails and CVs neither too short nor too long.
-- Highlight scholastic achievements, technical skills, and projects.
-- Write the CV in the third person.
-- Get input from seniors.
-- Use bullet points for projects.
-- Bold important points.
-- Do not use overly complex language.
-
-### Does management or B schools have such internships? Should they be targeted?
-- Remote internships are common in business schools.
-- Mention relevant courses in your application.
-
-### Any specific day or time when to mail and when not to?
-- Email between 9 am and 10 am.
-- Avoid holidays like Christmas and New Year.
-- Send gentle reminder emails.
-
-## The Internship
-
-### What about scholarship/stipend? How are the traveling and living expenses covered?
-- Stipends are provided for living expenses.
-- Negotiate stipends when possible.
-- Many expenses may be subsidized.
-
-### Do we always get an LOR at the end of a foreign intern?
-- Professors usually provide LORs.
-- The quality depends on your performance.
-
-### What do we do at these internships? What if we are researching an unfamiliar topic?
-- Discuss your goals with professors.
-- Work with PhD students and postdocs.
-- It's up to you to contribute.
-- If you publish a paper, it's a significant achievement.
-
-### Is there a stress to yield results? Is the process important or getting results?
-- Little stress; seek professor's help if needed.
-- Learning is often more important than results.
-
-### What happens in remote internships? Do we get scholarship/stipend?
-- Similar to regular internships.
-- Scholarships/stipends are common.
-
-### How much does the experience differ in the two cases - online and offline?
-- Offline internships usually offer a more immersive experience.
-
-### Does research intern hamper corporate intern preparations for the next year?
-
-## Official Work Needed
-
-### Department NOC required?
-- Yes, for NOC, visit ECADS, HOD, and acad office.
-
-### What are other official requirements to avail design credits?
-- Secure a mentor professor.
-- Provide reports on work done.
-- Request design credits from your mentor.
-
-### Visa and Passport
-- Start passport and visa processes ASAP.
-
-## Other Important Questions
-
-### What if I don't get a foreign intern?
-- Start with a few professors and gradually increase outreach.
-- Consider SURA and keep improving your skills.
-
-### For first-year students, what should we do now?
-- Build your interests.
-- Learn relevant subjects (e.g., machine learning).
-- Practice coding and problem-solving.
-
-## Conclusion
-
-Remember that securing a foreign internship is a valuable experience, but it's not the end of the world if you don't get one. Continue to work on improving your skills and exploring opportunities. Good luck with your journey into the world of research and internships!
+## How a First-Year Student Can Explore and Pursue AI/ML
+### 1. Online Courses and Tutorials:
+    * Coursera, edX, and Udacity: These platforms offer courses from top universities and companies. Look for introductory courses on AI and ML.
+    * Institute Courses: Refer to course webpages of COL774, ELL409, ELL884, COL772, COL775, etc., to learn about machine learning, deep learning, NLP, etc.
+    * CS229: A very good course by Andrew Ng to get a good grasp of essential machine learning concepts.
+### 2. Books and Reading Material:
+    * "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig: A comprehensive introduction to AI.
+    * "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron: Great for practical learning and implementation.
+### 3. Practical Experience:
+    * Projects: Start small with personal projects, like building a simple chatbot or analyzing a dataset. Platforms like GitHub are great for sharing your work and collaborating with others.
+    * Internships: Seek out internships or research opportunities in AI/ML. These can provide hands-on experience and mentorship from professionals in the field.
+    * Hackathons and Competitions: Participate in events like Kaggle competitions or university hackathons to apply your skills in real-world scenarios.
+### 4. By Joining ARIES-IIT Delhi:
+    * Artificial Intelligence Society, IIT Delhi: This student-run AI/ML club hosts several training sessions, AI discussions, hackathons, projects, industrial collaborations, etc., which will help you gain exposure to the field of AI/ML.
+Exploring AI/ML as a first-year student can be incredibly rewarding. With dedication and curiosity, you'll find countless resources and opportunities to grow your knowledge and skills in this dynamic field.
 
 ---
