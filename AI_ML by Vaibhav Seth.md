@@ -16,18 +16,18 @@ Imagine a world where your phone can understand your voice commands, cars drive 
 
 ## How a First-Year Student Can Explore and Pursue AI/ML
 ### 1. Online Courses and Tutorials:
-    - Coursera, edX, and Udacity: These platforms offer courses from top universities and companies. Look for introductory courses on AI and ML.
-    - Institute Courses: Refer to course webpages of COL774, ELL409, ELL884, COL772, COL775, etc., to learn about machine learning, deep learning, NLP, etc.
-    - CS229: A very good course by Andrew Ng to get a good grasp of essential machine learning concepts.
+- Coursera, edX, and Udacity: These platforms offer courses from top universities and companies. Look for introductory courses on AI and ML.
+- Institute Courses: Refer to course webpages of COL774, ELL409, ELL884, COL772, COL775, etc., to learn about machine learning, deep learning, NLP, etc.
+- CS229: A very good course by Andrew Ng to get a good grasp of essential machine learning concepts.
 ### 2. Books and Reading Material:
-    - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig: A comprehensive introduction to AI.
-    - "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron: Great for practical learning and implementation.
+- "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig: A comprehensive introduction to AI.
+- "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron: Great for practical learning and implementation.
 ### 3. Practical Experience:
-    - Projects: Start small with personal projects, like building a simple chatbot or analyzing a dataset. Platforms like GitHub are great for sharing your work and collaborating with others.
-    - Internships: Seek out internships or research opportunities in AI/ML. These can provide hands-on experience and mentorship from professionals in the field.
-    - Hackathons and Competitions: Participate in events like Kaggle competitions or university hackathons to apply your skills in real-world scenarios.
+- Projects: Start small with personal projects, like building a simple chatbot or analyzing a dataset. Platforms like GitHub are great for sharing your work and collaborating with others.
+- Internships: Seek out internships or research opportunities in AI/ML. These can provide hands-on experience and mentorship from professionals in the field.
+- Hackathons and Competitions: Participate in events like Kaggle competitions or university hackathons to apply your skills in real-world scenarios.
 ### 4. By Joining ARIES-IIT Delhi:
-    - Artificial Intelligence Society, IIT Delhi: This student-run AI/ML club hosts several training sessions, AI discussions, hackathons, projects, industrial collaborations, etc., which will help you gain exposure to the field of AI/ML.
+- Artificial Intelligence Society, IIT Delhi: This student-run AI/ML club hosts several training sessions, AI discussions, hackathons, projects, industrial collaborations, etc., which will help you gain exposure to the field of AI/ML.
 Exploring AI/ML as a first-year student can be incredibly rewarding. With dedication and curiosity, you'll find countless resources and opportunities to grow your knowledge and skills in this dynamic field.
 
 ---
