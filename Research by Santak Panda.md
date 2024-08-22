@@ -4,9 +4,7 @@
 ---
 
 ## About the Author
-
-My name is Santak Panda. I was pursuing Mathematics and Computing and graduated fr. I began my machine learning journey in the second semester of my first year, guided by a mentor who introduced me to the field and helped me get started with the basics. Over the years, I have completed several courses, projects, and even an internship in Machine Learning. My interests primarily lie in Natural Language Processing and Reinforcement Learning. Through this article, I aim to help you get started with AI/ML, much like my mentor did for me.
-Additionally, I am one of the founding members of the Artificial Intelligence Society at IIT Delhi, which has been instrumental in fostering a community passionate about AI/ML.
+Santak Panda compiled these tips. He graduated from the Mathematics department at IIT Delhi. He has served as a Teaching Assistant for various courses offered by the Mathematics Department and has always been deeply interested in Mathematics research and core concepts.
 
 ## Introduction
 Mathematics has many branches; these areas can be classified into pure and applied mathematics.
