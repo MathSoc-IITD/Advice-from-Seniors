@@ -1,6 +1,6 @@
 # Advice for AI/ML enthusiasts 
 #MathSoc
-![Views](https://komarev.com/ghpvc/?username=abhinav-ratan&label=Views&color=brightgreen)
+![Views](https://komarev.com/ghpvc/?username=mathsoc&label=Views&color=brightgreen)
 ---
 
 ## About the Author
