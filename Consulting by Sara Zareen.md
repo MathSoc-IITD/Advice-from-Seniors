@@ -1,4 +1,4 @@
-# Advice for SDE enthusiasts 
+# Advice for Consulting enthusiasts 
 #MathSoc
 ![Views](https://komarev.com/ghpvc/?username=abhinav-ratan&label=Views&color=brightgreen)
 ---
