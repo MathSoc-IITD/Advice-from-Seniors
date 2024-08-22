@@ -5,7 +5,7 @@
 
 ## About the Author
 
-My name is Vaibhav, and I am a final-year Mathematics and Computing undergraduate at IIT Delhi. I began my machine learning journey in the second semester of my first year, guided by a mentor who introduced me to the field and helped me get started with the basics. Over the years, I have completed several courses, projects, and even an internship in Machine Learning. My interests primarily lie in Natural Language Processing and Reinforcement Learning. Through this article, I aim to help you get started with AI/ML, much like my mentor did for me.
+My name is Santak Panda. I was pursuing Mathematics and Computing and graduated fr. I began my machine learning journey in the second semester of my first year, guided by a mentor who introduced me to the field and helped me get started with the basics. Over the years, I have completed several courses, projects, and even an internship in Machine Learning. My interests primarily lie in Natural Language Processing and Reinforcement Learning. Through this article, I aim to help you get started with AI/ML, much like my mentor did for me.
 Additionally, I am one of the founding members of the Artificial Intelligence Society at IIT Delhi, which has been instrumental in fostering a community passionate about AI/ML.
 
 ## Introduction
@@ -26,14 +26,14 @@ Computation), COL759 (Cryptography), and MTL768 (Graph Theory).
 - For some who want to continue with pure mathematics, a PhD in mathematics is probably the
 next thing to do. Most people would then like to continue with a job in Academia, which
 involves research and teaching (in most cases).
--- Applied mathematics models real-life problems using these math structures and uses the theories
+- Applied mathematics models real-life problems using these math structures and uses the theories
 of pure mathematics to solve these problems. Some important areas of applied mathematics are
 Probability and Stochastic Processes, Statistics, Numerical Analysis, Mathematical Biology,
 Mathematical Economics and Game Theory, Optimization, Financial Mathematics, etc.
 You can get a taste of applied mathematics through courses such as MTL103 (Optimization
 Methods), MTL106 (Probability and Stochastic Processes), MTL107 (Numerical Methods),
 MTL390 (Statistical Methods), etc.
--- A PhD in mathematics is probably a good next step for some who want to continue with
+- A PhD in mathematics is probably a good next step for some who want to continue with
 applied mathematics. However, you could also go for a job in the industry. Several MnC
 graduates from the past few years are now involved in Quantitative Research, Quantitative
 Trading, Data Science and Machine Learning.
