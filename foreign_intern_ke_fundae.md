@@ -1,10 +1,10 @@
 # Foreign Intern Fundae
 ### How to decide which professor/university/research area to choose? Is it necessary to write customised prof-specific emails? If yes, how so?
-- 1. Utilise csrankings.org and h-index(preferably between 15-30).
-- 2. Assistant and young professors are more receptive.
-- 3. Relate the professor’s research to your own experiences.
-- 4. Programs offer a list of research topics which you can choose from.
-- 5. Look up your department’s page and explore the research areas
+1. Utilise csrankings.org and h-index(preferably between 15-30).
+2. Assistant and young professors are more receptive.
+3. Relate the professor’s research to your own experiences.
+4. Programs offer a list of research topics which you can choose from.
+5. Look up your department’s page and explore the research areas
 ### Before applying to a particular prof do we have to read their research papers?If yes,then how much?
 - 1. Skim through some papers.
 - 2. Don’t overburden yourself with analysing research papers.
